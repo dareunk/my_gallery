@@ -25,7 +25,7 @@ window.onload = function(){
        document.body.style.backgroundColor = 'rgb('+R+','+G+','+B+')';
     };
 };
-img.src ="image/picture1-original.jpg";
+img.src="image/picture1-original.jpg"
 };
 
 function to3digit(n){
